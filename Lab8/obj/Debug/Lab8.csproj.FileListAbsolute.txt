@@ -1,0 +1,14 @@
+D:\C#\Labs\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\C#\Labs\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\C#\Labs\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\C#\Labs\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\C#\Labs\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\C#\Labs\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\C#\Labs\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\fatmo\Grand Circus\Labs\8\Brad-Lab-8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\fatmo\Grand Circus\Labs\8\Brad-Lab-8\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\fatmo\Grand Circus\Labs\8\Brad-Lab-8\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\fatmo\Grand Circus\Labs\8\Brad-Lab-8\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\fatmo\Grand Circus\Labs\8\Brad-Lab-8\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\fatmo\Grand Circus\Labs\8\Brad-Lab-8\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\fatmo\Grand Circus\Labs\8\Brad-Lab-8\Lab8\Lab8\obj\Debug\Lab8.pdb
